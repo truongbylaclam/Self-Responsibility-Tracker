@@ -1,13 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4b872531-83c6-4245-ae0b-2848785eeea3
-
+# Responsibility App (Tentaive Name)
+Local app that is an all-in-one project planner, progress tracker, todo, finance all in one
 ## Run Locally
 
 **Prerequisites:**  Node.js
