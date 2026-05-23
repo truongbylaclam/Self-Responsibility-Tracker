@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack KMP Dashboard",
+  "description": "Cross-platform personal finance goal and project tracker with live analytics, calendars, task checklists, and a local SQLDelight Database Cloud Synchronizer in Kotlin Multiplatform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
